@@ -45,6 +45,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <reporting>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -55,4 +56,5 @@
                 </configuration>
                 </plugin>
             </plugins>
+        </reporting>
 </project>
